@@ -33,3 +33,5 @@ print ("_name %s is about %.0f in cm." % (_name, euro))
 # %.<number of digits>f - Floating point numbers with a fixed amount of digits to the right of the dot.
 
 # %x/%X - Integers in hex representation (lowercase/uppercase)
+
+
